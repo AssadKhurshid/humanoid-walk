@@ -1,0 +1,5 @@
+mujoco
+numpy
+pyyaml
+# CPU build is enough; install with: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch
