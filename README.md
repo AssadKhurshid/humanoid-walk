@@ -1,5 +1,7 @@
 # Humanoid Walk
 
+![Unitree G1 walking in MuJoCo](docs/g1_walk.png)
+
 A full-size humanoid robot walks in a physics simulator on your laptop — and you drive it with the arrow keys.
 
 Unitree's G1, H1 and H1_2 humanoids walk, turn and walk backwards in [MuJoCo](https://github.com/google-deepmind/mujoco), driven by Unitree's trained reinforcement-learning policies. No training and no GPU needed.
